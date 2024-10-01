@@ -61,10 +61,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+#Em desenvolvimento
 
 ```sh
 Coloque código do prompt de comnando se for necessário
@@ -72,8 +69,18 @@ Coloque código do prompt de comnando se for necessário
 
 <b>Windows:</b>
 
+Instale as seguintes bibliotecas:
+-
+-
+-
+
+Rode os seguintes comandos no prompt para iniciar os processos:
+-
+-
+-
+
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+--Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
@@ -102,21 +109,18 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.1.1 - 01/10/2024
+    * Piloto página "_Home_" -  HTML & CSS;
+    * Design prototipado;
+
     * Trabalho em andamento
 
 ## 📋 Licença/License
 
+Zoopi © 2024 by Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
+
+HTML:
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS2/Projeto12">Zoopi</a> by <span property="cc:attributionName">Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 🎓 Referências
 
