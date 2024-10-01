@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://github.com/2024-2-NADS2/Projeto12/blob/main/images/Imagem_capa.png" alt="CAPA" border="0">
+<img src="https://github.com/2024-2-NADS2/Projeto12/blob/main/images/Imagem_capa.png?raw=true" alt="CAPA" border="0">
 
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
