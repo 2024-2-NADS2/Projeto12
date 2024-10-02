@@ -1,9 +1,12 @@
 :root {
     --cor-texto: #fff;
     --tamanho-texto: 1.1rem;
-    --tamanho-titulo: 3.5rem;
+    --tamanho-h1: 3.5rem;
+    --tamanho-h2: 2.5rem;
     --fonte-titulo: 'Playfair Display', serif;
     --tamanho-seções: 90%;
+    --cor-btn2: #c83b6c;
+    --cor-btn: #0077ff;
 }
 
 * {
@@ -98,7 +101,6 @@ nav {
 }
 
 .btn-style {
-    --color: #0077ff;
     display: flex;
     justify-content: center;
     width: 8em;
@@ -110,8 +112,8 @@ nav {
     margin: 20px;
     font-size: 17px;
     z-index: 1;
-    color: var(--color);
-    border: 3px solid var(--color);
+    color: var(--cor-btn);
+    border: 3px solid var(--cor-btn);
     border-radius: 6px;
     position: relative;
 }
@@ -119,7 +121,7 @@ nav {
 .btn-style::before {
     position: absolute;
     content: "";
-    background: var(--color);
+    background: var(--cor-btn);
     width: 190px;
     height: 200px;
     z-index: -1;
@@ -139,6 +141,28 @@ nav {
 .btn-style:hover::before {
     top: -30px;
     left: -30px;
+}
+
+.btn-color-2{
+    color: var(--cor-btn2);
+    border: 3px solid var(--cor-btn2);
+}
+
+.btn-color-2::before{
+    background-color: var(--cor-btn2);
+}
+.btn-color-3{
+    background-color: var(--cor-btn2);
+    color: #fff;
+    border: 3px solid var(--cor-btn2);
+}
+
+.btn-color-3::before{
+    background-color: #fff;
+}
+
+.btn-color-3:hover{
+    color: #c83b6c;
 }
 
 
@@ -167,23 +191,40 @@ section {
     justify-content: space-between;
 }
 
-.section-container-title {
-    width: 50%;
+
+/* Seção padrão para containers onde se tem o titulo */
+.container-title {
+    width: 45%;
     height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 1rem;
 }
 
-.section-container-title h1 {
+.container-title h1 {
     font-family: var(--fonte-titulo);
-    font-size: var(--tamanho-titulo);
+    font-size: var(--tamanho-h1);
     color: var(--cor-texto);
 }
 
+.container-title h2{
+    font-family: var(--fonte-titulo);
+    font-size: var(--tamanho-h2);
+    color: var(--cor-texto);
+
+}
+
+.container-title p{
+    font-size: var(--tamanho-texto);
+    color: var(--cor-texto);    
+}
+
+/* Estilo padrão para containers com imagens */
+
 .section-container-image {
-    width: 40%;
+    width: 45%;
 }
 
 .section-container-image img {
@@ -191,10 +232,15 @@ section {
 }
 
 /* ----------------------------------------------------- */
+
+
+/* Seção com cor secundaria */
 .section-dark {
     background-color: #f097ab;
 }
 
+
+/* Seção para containers onde o conteúdo é apenas texto */
 .text-section {
     width: 45%;
 }
@@ -208,17 +254,19 @@ section {
 
 /* Seção divisória sólida */
 .page-divider {
-    height: 100px;
-    background-color: #88374a;
+    height: 30vh;
+    background-color: #c83b6c;
+    color: var(--cor-texto);
 }
 
 /* ----------------------------------- */
-
+/* Seção para beneficios, fora do padrão porque ela precisa do flex-direction diferente */
 .section-beneficios {
     flex-direction: column;
     justify-content: space-between;
 }
 
+/* Container onde vai estar os 3 beneficios  */
 .container-beneficios {
     width: 100%;
     height: 80%;
@@ -226,6 +274,8 @@ section {
     justify-content: space-around;
 }
 
+
+/* caixa dos icones de cada beneficio */
 .container-beneficios .box-beneficios {
     width: 30%;
     display: flex;
@@ -247,67 +297,86 @@ section {
     transition: .5s;
 }
 
+/* ------------------------------------------------------ */
 
-/* Página 4 */
-.page4 {
+#img-como-funciona{
+    border: solid 1px ;
+    border-radius: 2rem;
+}
+
+.contato-container{
+    height: 75%;
+    background-color: #f097ab;
+    border-radius: 2rem;
+}
+
+.contato-box{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 60px;
-    background-color: #E52F5880;
+    flex-direction: column;
+    height: 60%;
+    justify-content: space-evenly;
 }
 
-.left-content h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 36px;
-    font-weight: 900;
-    line-height: 46.8px;
-    color: white;
-    text-align: left;
-}
-
-.learn-more-btn {
-    background-color: white;
-    color: #E52F5880;
-    border: none;
-    padding: 10px 20px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 32px;
-    text-align: center;
-    cursor: pointer;
-    margin-top: 20px;
-}
-
-.right-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.right-content .image {
-    max-width: 100%;
-    height: auto;
+.contato-box h3{
+    color: var(--cor-btn2);
 }
 
 /* Separação e Rodapé */
-.footer-divider {
-    height: 20px;
-    background-color: #E52F5880;
+
+footer{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor-texto);
 }
 
-.footer {
+.footer-container{
+    width: 99%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5F95BA;
+    border: 1px solid black;
+    color: var(--cor-texto);
+}
+
+.footer-box-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    height: 70%;
+}
+
+.footer-links{
     display: flex;
     justify-content: space-between;
-    padding: 20px;
-    background-color: #e94b7080;
 }
 
-.footer-text {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 27px;
-    color: white;
+.footer-links a{
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.footer-links a:hover{
+    text-decoration: underline;
+}
+
+.footer-copyright{
+    display: flex;
+    justify-content: space-between;
+    font-size: .8rem;
+}
+
+.footer-copyright .content-right a{
+    padding-left: 2rem;
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.footer-copyright .content-right a:hover{
+    text-decoration: underline;
 }
