@@ -10,8 +10,7 @@
 
 ## Integrantes: <a href="https://">Anderson Yavi Fernandez</a>, <a href="https://www.">Gabriel Gonçalves Pires</a>, <a href="https://www.">Gustavo Cunha Fernandes</a>, <a href="https://www.">Kaique Neres de Oliveira</a>, <a href="https://">Luiz Felipe Galdino de Carvalho</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10">Eduardo Savino Gomes</a>, <a href="https://br.linkedin.com/in/aimarlopes/pt">Aimar Martins Lopes
-</a>, <a href="https://br.linkedin.com/in/jbuesso">Jose Carlos Buesso Junior</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10">Eduardo Savino Gomes</a>, <a href="https://br.linkedin.com/in/aimarlopes/pt">Aimar Martins Lopes</a>, <a href="https://br.linkedin.com/in/jbuesso">Jose Carlos Buesso Junio r</a>
 
 ## Descrição
 
@@ -19,12 +18,11 @@
 <img src="https://github.com/2024-2-NADS2/Projeto12/blob/main/images/Imagem_capa_2.png?raw=true" alt="CAPA" border="0">
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Meu projeto ajuda crianças do ensino fundamental 2 a aprender programação em blocos de forma divertida e interativa. Por meio de um site envolvente, os alunos exploram conceitos de programação enquanto desenvolvem habilidades de raciocínio lógico e criatividade. A plataforma oferece desafios e jogos que tornam o aprendizado dinâmico, incentivando a colaboração e a curiosidade, com tutoriais passo a passo e feedback instantâneo para garantir que cada aluno avance no seu próprio ritmo.
+
+Trabalhando em parceria com instituições educacionais, buscamos proporcionar uma experiência rica e acessível, com uma interface amigável e recursos visuais atrativos. Com isso, não apenas ensinamos os fundamentos da programação, mas também cultivamos o amor pela tecnologia e o pensamento crítico, preparando as crianças para se tornarem os inovadores do futuro.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
