@@ -93,12 +93,15 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
-
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+Código do prompt de comnando necessário para instalação e inicio:
+node - v
+npm - v
+npx -v
+npx create-react-app zoopi
+cd zoopi
+npm start
+
 ```
 
 ## 🗃 Histórico de lançamentos
