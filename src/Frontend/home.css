@@ -173,7 +173,7 @@ nav {
     color: white;
 }
 
-section {
+section, .section-padrao {
     /* padronizando as seções */
     height: 85vh;
     display: flex;
