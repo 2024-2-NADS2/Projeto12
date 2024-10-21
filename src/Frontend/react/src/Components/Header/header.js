@@ -6,7 +6,7 @@ function Header(){
         <header>
             <div>
 
-            <div className="logo">Zoop</div>
+            <div className="logo">Zoopi</div>
             <div className="header-menu">
                 <nav>
                     <a className="nav-links" href="#">Home</a>
