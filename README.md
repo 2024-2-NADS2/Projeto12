@@ -115,46 +115,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 ## 📋 Licença/License
 
 Zoopi © 2024 by Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
-
-HTML:
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS2/Projeto12">Zoopi</a> by <span property="cc:attributionName">Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
-
-
-XML:
-[Uploadin<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?>
-<x:xmpmeta xmlns:x='adobe:ns:meta/'>
-    <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
-             xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'
-             xmlns:cc='http://creativecommons.org/ns#'xmlns:dc='http://purl.org/dc/elements/1.1/'>
-        <rdf:Description rdf:about=''>
-            <xapRights:Marked>True</xapRights:Marked>
-            <xapRights:Owner>
-                <rdf:Bag>
-                    <rdf:li>Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez</rdf:li>
-                </rdf:Bag>
-            </xapRights:Owner>
-            <xapRights:WebStatement rdf:resource='https://github.com/2024-2-NADS2/Projeto12'/>
-            <xapRights:UsageTerms>
-                <rdf:Alt>
-                  <rdf:li xml:lang='x-default'>This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
-                  <rdf:li xml:lang='en-US' >This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
-                </rdf:Alt>
-            </xapRights:UsageTerms>
-            <cc:license rdf:resource='https://creativecommons.org/licenses/by-nc-sa/4.0/'/>
-            <cc:attributionName>Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez</cc:attributionName>
-            <dc:title>
-                <rdf:Alt>
-                  <rdf:li xml:lang='x-default'>Zoopi</rdf:li>
-                  <rdf:li xml:lang='en-US'>Zoopi</rdf:li>
-                </rdf:Alt>
-            </dc:title>
-        </rdf:Description>
-    </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end='r'?>g CC BY-NC-SA 4.0.xmp…]()
-
-
 
 ## 🎓 Referências
 
