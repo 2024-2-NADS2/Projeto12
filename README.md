@@ -62,19 +62,6 @@ Há também 4 pastas que seguem da seguinte forma:
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
-
-<b>Windows:</b>
-
-Instale as seguintes bibliotecas:
--
--
--
-
-Rode os seguintes comandos no prompt para iniciar os processos:
--
--
--
-
 Não há instalação! Apenas executável!
 --Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
