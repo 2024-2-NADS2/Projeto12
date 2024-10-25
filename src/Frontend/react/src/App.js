@@ -1,16 +1,19 @@
-import Form from "./Components/form/Form";
-import Header from "./Components/Header/header"
-import Button from "./Components/Button/button";
-import Cadastro from "./pages/Cadastro/cadastro";
-import Home from "./pages/Home/home";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Cadastro from './pages/Cadastro/cadastro';
+import Home from './pages/Home/home';
+
+
 
 function App() {
   return (
-    <body>
-      <Header/>
-      <Cadastro/>
-    </body>
+    <Router>
+      <Routes>  
+        <Route path='/' element={<Home/>}/>
+        <Route path='/cadastro' element={<Cadastro/>}/>
+
+      </Routes>
+    </Router>
   );
 }
 
-export default App;
+export default App
