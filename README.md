@@ -8,7 +8,7 @@
 
 ## Marketada
 
-## Integrantes: <a href="https://">Anderson Yavi Fernandez</a>, <a href="https://www.">Gabriel Gonçalves Pires</a>, <a href="https://www.">Gustavo Cunha Fernandes</a>, <a href="https://www.">Kaique Neres de Oliveira</a>, <a href="https://">Luiz Felipe Galdino de Carvalho</a>
+## Integrantes: <a href="https://">FECAP, Anderson Yavi Fernandez</a>, <a href="https://www.">Gabriel Gonçalves Pires</a>, <a href="https://www.">Gustavo Cunha Fernandes</a>, <a href="https://www.">Kaique Neres de Oliveira</a>, <a href="https://">Luiz Felipe Galdino de Carvalho</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10">Eduardo Savino Gomes</a>, <a href="https://br.linkedin.com/in/aimarlopes/pt">Aimar Martins Lopes</a>, <a href="https://br.linkedin.com/in/jbuesso">Jose Carlos Buesso Junior</a>
 
@@ -60,19 +60,6 @@ Há também 4 pastas que seguem da seguinte forma:
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
-
-<b>Windows:</b>
-
-Instale as seguintes bibliotecas:
--
--
--
-
-Rode os seguintes comandos no prompt para iniciar os processos:
--
--
--
-
 Não há instalação! Apenas executável!
 --Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
@@ -114,8 +101,8 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
-Zoopi © 2024 by Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS2/Projeto12">Zoopi</a> by <span property="cc:attributionName">Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino De Carvalho; Anderson Yavi Fernandez</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+  
 
 ## 🎓 Referências
 
