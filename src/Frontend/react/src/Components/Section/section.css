@@ -1,0 +1,52 @@
+:root {
+    --cor-texto: #fff;
+    --tamanho-texto: 1rem;
+    --tamanho-h1: 3.5rem;
+    --tamanho-h2: 2.5rem;
+    --fonte-titulo: 'Playfair Display', serif;
+}
+
+.section, .section-dark{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5F95BA;
+    width: 100%;
+    height: 80vh;
+}
+
+.section-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    height: 95%;
+}
+.section-container div{
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.section-container div img{
+    width: 100%;;
+}
+
+.section-dark{
+    background-color: #F097AB;
+}
+
+.section-container h1{
+    font-family: var(--fonte-titulo);
+    font-size: var(--tamanho-h1);
+    color: var(--cor-texto);
+}
+
+.section-container p {
+    font-size: var(--tamanho-texto);
+    color: var(--cor-texto);
+}

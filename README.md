@@ -32,8 +32,6 @@ Trabalhando em parceria com instituições educacionais, buscamos proporcionar u
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
@@ -103,7 +101,8 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
-Zoopi © 2024 by FECAP, Gabriel Gonçalves Pires, Kaique Neres de Oliveira, Gustavo Cunha Fernandes, Luiz Felipe Galdino de Carvalho, Anderson Yavi Fernandez is licensed under Creative Commons Attribution 4.0 International
+
+  
 
 ## 🎓 Referências
 
