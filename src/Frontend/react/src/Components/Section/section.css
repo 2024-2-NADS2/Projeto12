@@ -32,6 +32,10 @@
     justify-content: center;
 }
 
+.section-container div img{
+    width: 100%;;
+}
+
 .section-dark{
     background-color: #F097AB;
 }

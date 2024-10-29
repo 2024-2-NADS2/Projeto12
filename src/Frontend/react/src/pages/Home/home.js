@@ -2,6 +2,7 @@ import Header from '../../Components/Header/header'
 import Section from '../../Components/Section/section'
 import Button from '../../Components/Button/button'
 import styles from './home.css'
+import imgBanner from '../../images/criancas-no-pc.png'
 
 function Home() {
     return (
@@ -16,13 +17,24 @@ function Home() {
                     </div>
 
                     <div>
-                        <h1>img</h1>
+                        <img src={imgBanner}></img>
                     </div>
                 </div>
             </Section>
 
             <Section sectionColor="section-dark">
                 <div className="section-container">
+                    <div>
+                        <h1>Nossa missão é uma educação para o futuro</h1>
+                    </div>
+                    <div>
+                        <p>Inspirar e capacitar crianças através de experiências tecnológicas divertidas e educativas, desenvolvendo habilidades digitais essenciais e preparando-as para um futuro inovador.</p>
+                    </div>
+                </div>
+            </Section>
+
+            <Section sectionColor="section">
+                   <div className="section-container">
                     <div>
                         <h1>Nossa missão é uma educação para o futuro</h1>
                     </div>
