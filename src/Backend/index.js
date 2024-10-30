@@ -62,6 +62,18 @@ app.post('/', (req, res) => {
     );
 });
 
+// Nova rota para consultar e exibir todos os dados no console
+app.get('/consultar-todos', (req, res) => {
+    db.all(`SELECT * FROM institutions`, [], (err, rows) => {
+        if (err) {
+            console.error('Erro ao consultar todos os dados', err);
+            return res.status(500).send({ message: 'Erro ao consultar todos os dados', error: err.message });
+        }
+        console.log('Todos os dados do banco de dados:', rows); // Exibe todos os dados no console
+        res.status(200).send({ message: 'Todos os dados consultados com sucesso', data: rows });
+    });
+});
+
 // Para fechar a conexão quando o servidor parar
 process.on('SIGINT', () => {
     db.close((err) => {
