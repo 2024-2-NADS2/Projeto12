@@ -1,5 +1,6 @@
 {
   "name": "meu-projeto",
+  "proxy": "https://cautious-couscous-q5jq99jgjgrf4pqg-3001.app.github.dev/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
