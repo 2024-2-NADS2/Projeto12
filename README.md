@@ -101,7 +101,20 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
+RICH TEXT:
 
+Zoopi © 2024 by FECAP, Gabriel Gonçalves Pires, Kaique Neres de Oliveira, Gustavo Cunha Fernandes, Luiz Felipe Galdino de Carvalho, Anderson Yavi Fernandez is licensed under Creative Commons Attribution 4.0 International 
+
+
+HTML:
+
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="http://github.com/2024-2NADS/PROJETO12">Zoopi</a> by <span property="cc:attributionName">Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino de Carvalho; Anderson Yavi Fernandez</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+
+PLAIN TEXT:
+Zoopi © 2024 by Gabriel Gonçalves Pires; Kaique Neres de Oliveira; Gustavo Cunha Fernandes; Luiz Felipe Galdino de Carvalho; Anderson Yavi Fernandez is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
   
 
 ## 🎓 Referências
@@ -109,7 +122,4 @@ A cada atualização os detalhes devem ser lançados aqui.
 Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+2. <https://creativecommons.org/share-your-work/>
