@@ -1,0 +1,55 @@
+Requisitos Funcionais:
+
+
+1 - Cadastro de Usuário/ Login.
+
+Os usuários (crianças e pais) devem poder criar uma conta.
+Opção de login e recuperação de senha.
+
+
+2 - Ambiente de Aprendizagem
+
+Interface de programação em blocos intuitiva e amigável.
+Tutorial interativo para ensinar os conceitos básicos de programação.
+
+
+3 - Suporte Técnico
+
+Seção de perguntas frequentes e suporte técnico para resolver problemas.
+
+4 - Sobre nós
+
+Página para falar da missão e sobre o projeto.
+
+Requisitos Não Funcionais
+
+1 - Usabilidade
+
+Interface amigável e intuitiva, adequada para a faixa etária.
+Navegação simples, com menus claros e ícones representativos.
+
+2 - Desempenho
+
+O site deve carregar rapidamente, mesmo em conexões lentas.
+Resposta rápida às interações do usuário.
+
+
+3 - Segurança
+
+Proteção de dados pessoais e informações de usuários.
+Implementação de medidas de segurança para evitar acesso não autorizado.
+
+4 - "Compatibilidade"
+
+Funcionalidade em diferentes navegadores e dispositivos (desktop, tablet, smartphone).
+Adaptabilidade a diferentes tamanhos de tela.
+
+5 - "Escalabilidade"
+
+Capacidade de suportar um aumento no número de usuários sem perda de desempenho.
+Estrutura que permita a adição de novos jogos e módulos educacionais.
+
+6 - Manutenibilidade
+
+Código organizado e documentado para facilitar atualizações futuras.
+Facilidade em adicionar novas funcionalidades e corrigir bugs.
