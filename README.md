@@ -18,7 +18,7 @@
 <img src="https://github.com/2024-2-NADS2/Projeto12/blob/main/images/Imagem_capa_2.png?raw=true" alt="CAPA" border="0">
 
 
-O nosso projeto ajuda crianças do ensino fundamental 2 a aprender programação em blocos de forma divertida e interativa. Por meio de um site envolvente, os alunos exploram conceitos de programação enquanto desenvolvem habilidades de raciocínio lógico e criatividade. A plataforma oferece desafios e jogos que tornam o aprendizado dinâmico, incentivando a colaboração e a curiosidade, com tutoriais passo a passo e feedback instantâneo para garantir que cada aluno avance no seu próprio ritmo.
+O nosso projeto incentiva crianças do ensino fundamental 2 e jovens do ensino médio que estejam dispostos a aprender programação em blocos de forma divertida e interativa. Por meio de um site envolvente, os alunos exploram conceitos de programação enquanto desenvolvem habilidades de raciocínio lógico e criatividade. A plataforma oferece desafios e jogos que tornam o aprendizado dinâmico, incentivando a colaboração e a curiosidade, com tutoriais passo a passo e feedback instantâneo para garantir que cada aluno avance no seu próprio ritmo.
 
 Trabalhando em parceria com instituições educacionais, buscamos proporcionar uma experiência completa e acessível, com uma interface amigável e recursos visuais atrativos. Com isso, não apenas ensinamos os fundamentos da programação, mas também cultivamos o amor pela tecnologia e o pensamento crítico, preparando as crianças para se tornarem os inovadores do futuro.
 <br><br>
