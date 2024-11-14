@@ -58,13 +58,13 @@ Há também 4 pastas que seguem da seguinte forma:
 #Em desenvolvimento
 
 ```sh
-Coloque código do prompt de comnando se for necessário
+Coloque código do prompt de comando se for necessário
 ```
 Não há instalação! Apenas executável!
 --Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 ```sh
-Coloque código do prompt de comnando se for necessário
+Coloque código do prompt de comando se for necessário
 ```
 
 <b>HTML:</b>
