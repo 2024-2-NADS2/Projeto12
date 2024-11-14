@@ -78,8 +78,13 @@ Para ter acesso ao nosso projeto você deve instalar o node.js, que fará a inte
 
 ```sh
 Código do prompt de comando necessário para instalação e inicio:
-node - v //verificação se o node foi instalado corretamente
+
+Verificação para conferir se o node foi instalado corretamente.
+Abra o terminal e execute:
+node - v 
 npm - v
+
+React:
 npx -v
 npx create-react-app zoopi
 cd zoopi
