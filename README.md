@@ -74,9 +74,7 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
+Para ter acesso ao nosso projeto você deve instalar o node.js, que fará a interpretação do código em JavaScript e vai executá-lo ao lado do servidor. Após baixado, o próximo passo é instalar o react, que será responsável por criar interfaces de usuário (UIs) em projetos de desenvolvimento web e reduzir os possíveis erros que podem acontecer ao longo do desenvolvimento.
 
 ```sh
 Código do prompt de comando necessário para instalação e inicio:
