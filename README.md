@@ -8,7 +8,7 @@
 
 ## Marketada
 
-## Integrantes: <a href="https://">FECAP, Anderson Yavi Fernandez</a>, <a href="https://www.">Gabriel Gonçalves Pires</a>, <a href="https://www.">Gustavo Cunha Fernandes</a>, <a href="https://www.">Kaique Neres de Oliveira</a>, <a href="https://">Luiz Felipe Galdino de Carvalho</a>
+## Integrantes: FECAP<a href="https://">, Anderson Yavi Fernandez</a>, <a href="https://www.">Gabriel Gonçalves Pires</a>, <a href="https://www.">Gustavo Cunha Fernandes</a>, <a href="https://www.">Kaique Neres de Oliveira</a>, <a href="https://">Luiz Felipe Galdino de Carvalho</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10">Eduardo Savino Gomes</a>, <a href="https://br.linkedin.com/in/aimarlopes/pt">Aimar Martins Lopes</a>, <a href="https://br.linkedin.com/in/jbuesso">Jose Carlos Buesso Junior</a>
 
