@@ -20,7 +20,7 @@
 
 O nosso projeto ajuda crianças do ensino fundamental 2 a aprender programação em blocos de forma divertida e interativa. Por meio de um site envolvente, os alunos exploram conceitos de programação enquanto desenvolvem habilidades de raciocínio lógico e criatividade. A plataforma oferece desafios e jogos que tornam o aprendizado dinâmico, incentivando a colaboração e a curiosidade, com tutoriais passo a passo e feedback instantâneo para garantir que cada aluno avance no seu próprio ritmo.
 
-Trabalhando em parceria com instituições educacionais, buscamos proporcionar uma experiência rica e acessível, com uma interface amigável e recursos visuais atrativos. Com isso, não apenas ensinamos os fundamentos da programação, mas também cultivamos o amor pela tecnologia e o pensamento crítico, preparando as crianças para se tornarem os inovadores do futuro.
+Trabalhando em parceria com instituições educacionais, buscamos proporcionar uma experiência completa e acessível, com uma interface amigável e recursos visuais atrativos. Com isso, não apenas ensinamos os fundamentos da programação, mas também cultivamos o amor pela tecnologia e o pensamento crítico, preparando as crianças para se tornarem os inovadores do futuro.
 <br><br>
 
 
@@ -79,7 +79,7 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 ```sh
-Código do prompt de comnando necessário para instalação e inicio:
+Código do prompt de comando necessário para instalação e inicio:
 node - v
 npm - v
 npx -v
