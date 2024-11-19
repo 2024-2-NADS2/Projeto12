@@ -1,0 +1,78 @@
+:root {
+  --background-color: #053a77;
+  --background-hover: #072f51;
+  --txt-color: #f8f8ff;
+  --txt-hover: #fff;
+  /* --------------- */
+  --secundary-color: #5f95ba;
+  --secundary-hover: #fff;
+  --txt2-color: #fff;
+  --txt2-hover: #053a77;
+}
+
+.button,
+.buttonSecundary {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin: 0 10px;
+  font-size: inherit;
+  position: relative;
+  display: inline-block;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  background: var(--background-hover);
+  color: var(--txt-color);
+}
+.buttonSecundary {
+  border: 1.5px solid white;
+  background: var(--secundary-hover);
+}
+
+.button span,
+.buttonSecundary span {
+  position: relative;
+  z-index: 10;
+  transition: color 0.4s;
+  font-family: var(--fonte-corpoTexto);
+  font-weight: var(--pesoFonte-corpoTexto);
+}
+
+.button:hover span {
+  color: var(--txt-hover);
+}
+.buttonSecundary:hover span {
+  color: var(--txt2-hover);
+}
+
+.button::before,
+.button::after,
+.buttonSecundary::before,
+.buttonSecundary::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.button::before,
+.buttonSecundary::before {
+  content: "";
+  background: var(--background-color);
+  width: 120%;
+  left: -10%;
+  transform: skew(30deg);
+  transition: transform 0.4s cubic-bezier(0.3, 1, 0.8, 1);
+}
+
+.buttonSecundary::before {
+  background: var(--secundary-color);
+}
+
+.button:hover::before,
+.buttonSecundary:hover::before {
+  transform: translate3d(100%, 0, 0);
+}
