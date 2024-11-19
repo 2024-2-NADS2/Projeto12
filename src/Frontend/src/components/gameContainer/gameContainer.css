@@ -1,0 +1,80 @@
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100%; /* Certifique-se de que o container ocupe a largura disponível */
+  max-width: 600px; /* Limite de largura */
+}
+
+.container h1 {
+  color: #333;
+}
+
+.container #score {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.container #truth-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.container #truth-table th,
+.container #truth-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.container #truth-table th {
+  background-color: #f2f2f2;
+}
+
+.container #input-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.container input[type="text"] {
+  width: 30px;
+  text-align: center;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.container #submit-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container #feedback {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+input[type="text"]:focus {
+  outline: none;
+}
+
+input[type="text"].correct {
+  background-color: #ccffcc; /* Verde para respostas corretas */
+}
+
+input[type="text"].incorrect {
+  background-color: #ffcccc; /* Vermelho para respostas incorretas */
+}

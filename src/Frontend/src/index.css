@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --cor-texto: #fff;
+  --tamanho-texto: 1.25rem;
+  --tamanho-h1: 2.5rem;
+  --tamanho-h2: 2rem;
+  --fonte-corpoTexto: "Hind Madurai";
+  --pesoFonte-corpoTexto: 200;
+  --bg-sectionPadrao: #5f95ba;
+  --tamanho-section: 90%;
+}
+
+* {
+  /* Zerar estilo */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-image: url("./images/img-banner.jpg"); /* ajuste o caminho conforme necessário */
+  background-size: cover;
+  background-position: center;
+  background-color: aquamarine;
+  min-height: 100vh; /* faz com que o fundo ocupe a tela toda */
+}

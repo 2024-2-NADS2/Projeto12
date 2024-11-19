@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap");
+
+.section,
+.section-alternative,
+.section-banner,
+.section-missao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-sectionPadrao);
+  width: 100%;
+  height: 90vh;
+}
+
+.section-missao {
+  height: 105vh;
+}
+
+.section-container,
+.section-2colunas {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: var(--tamanho-section);
+  height: 95%;
+  color: #fff;
+}
+
+.section-2colunas div {
+  width: 50%;
+  margin: 0 1rem;
+}
+
+.section-2colunas div img {
+  width: 100%;
+}
+
+.section-container-collum {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  width: var(--tamanho-section);
+  height: 95%;
+}
+
+.section-container-collum div {
+  width: auto;
+}
+
+.section-container-collum input {
+  width: 50%;
+  height: 2.5rem;
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+
+.section-container div img {
+  width: 100%;
+}
+
+.section-container h1,
+.section-container-collum h1,
+.section-2colunas div h1 {
+  font-family: "Montserrat";
+  font-size: var(--tamanho-h1);
+  color: var(--cor-texto);
+}
+
+.section-container h2,
+.section-container-collum h2,
+.section-2colunas h2 {
+  font-family: "Lora";
+  font-weight: 500;
+  font-size: var(--tamanho-h2);
+  color: #fff;
+}
+
+.section-container p,
+.section-container-collum p,
+.section-2colunas div p {
+  font-size: var(--tamanho-texto);
+  color: var(--cor-texto);
+  font-weight: var(--pesoFonte-corpoTexto);
+}
+
+.section-banner {
+  background-color: #1e1e1e;
+  /* background-image: url(../../images/img-banner.jpg); */
+}
+
+.section-alternative {
+  background-color: #f3797d;
+}
+
+.section-banner-box {
+  width: 50%;
+}
+
+/* ----------------------- MISSAO VISAO E VALORES ----------------------- */
+.section-missao {
+  background-color: #072f51;
+}
+
+.section-missao .section-container {
+  justify-content: space-around;
+  flex-direction: column;
+  width: 75%;
+}
+
+.missao-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.missao-box div {
+  height: 20rem;
+  margin: 0 20px;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  border: 3px solid #5f95ba;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 15px 20px 35px #00000092;
+}
+
+.missao-box div h2 {
+  color: #fff;
+}
+
+.missao-box div:hover {
+  background-color: #5f95ba;
+  transition: 0.8s;
+}
+
+.missao-box div p {
+  text-align: center;
+}
+
+.missao-box div img {
+  width: 4rem;
+}
+
+.texto-destaque {
+  color: var(--bg-sectionPadrao);
+}
+
+.contato-email {
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.contato-email:hover {
+  color: #072f51;
+  text-decoration: underline;
+}
